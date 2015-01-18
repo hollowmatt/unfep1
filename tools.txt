@@ -1,0 +1,9 @@
+Sites Used:
+===========
+http://www.w3schools.com/htmL/default.asp
+http://www.w3schools.com/css/default.asp
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+Forums:
+=======
+piazza.com (p1 filter)
