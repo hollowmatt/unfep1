@@ -3,14 +3,12 @@
 	font-family: "Verdana", sans-serif;
 }
 
-
 /* Headings */
 .title {
-	color: #666666;
+	color: #666;
 	font-size:48px;
 	margin-top: 45px;
 }
-
 
 .section-header {
 	color: #f07c17;
@@ -18,17 +16,10 @@
 	font-size: 24px;
 }
 
-
-.content-header {
-	letter-spacing: 1.1;
-}
-
-
 .box-header {
-    margin-top: 10px;
-    padding-left: 5px;
+  margin-top: 10px;
+  padding-left: 5px;
 }
-
 
 /* Content */
 .content {
@@ -36,28 +27,23 @@
 	padding-top: 5px;
 }
 
-
 p,
 li {
 	font-size: 16px;
 	line-height: 2;
 }
 
-
 ul {
 	padding: 19px 44px;
 }
-
 
 li {
 	padding-left: 2px;
 }
 
-
 .mug-shot {
 	margin-top: 22px;
 }
-
 
 .box {
 	margin: 25px 0px;
